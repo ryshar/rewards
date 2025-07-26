@@ -1,0 +1,16 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: 10% Off
+  description: Get 10% off your next purchase
+  cost: 100
+
+two:
+  name: $5 Off
+  description: Get $5 off your next purchase
+  cost: 250
+
+three:
+  name: BOGO
+  description: Buy one get one free
+  cost: 500

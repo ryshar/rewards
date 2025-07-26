@@ -1,0 +1,16 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+alice:
+  name: Alice
+  email: alice@example.com
+  point_balance: 1000
+
+bob:
+  name: Bob
+  email: bob@example.com
+  point_balance: 450
+
+carol:
+  name: Carol
+  email: carol@example.com
+  point_balance: 50
